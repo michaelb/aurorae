@@ -295,6 +295,12 @@ highlights:
   DiagnosticError: "error_red"
   DiagnosticWarning: "orange"
   DiagnosticInformation: "yellow"
+  DiagnosticHint: "yellow"
+
+  LspDiagnosticsVirtualTextError: "error_red"
+  LspDiagnosticsSignWarning: "orange"
+  LspDiagnosticsSignInformation: "yellow"
+  LspDiagnosticsSignHint: "yellow"
 
   #LSPSaga
   LspSagaFinderSelection: "purple"
