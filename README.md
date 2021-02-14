@@ -4,13 +4,8 @@
 
 **Included Themes**
 
-- nvcode (basically just dark+)
-- onedark
-- [nord](./assets/nord.png)
-- aurora (more colorful nord)
-- gruvbox
-- palenight
-- snazzy (Based on [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy/) by [Sindre Sorhus](https://sindresorhus.com))
+- aurora (more colorful nord with treesitter, LSP (nvim 0.5) diagnostics and some plugin's support)
+)
 
 ### Credit
 
@@ -25,7 +20,7 @@ This color scheme requires [treesitter](https://github.com/nvim-treesitter/nvim-
 With `Vim-plug`
 
 ```viml
-Plug 'christianchiarulli/nvcode-color-schemes.vim'
+Plug 'michaelb/aurorae'
 Plug 'nvim-treesitter/nvim-treesitter'
 ```
 
@@ -49,7 +44,7 @@ EOF
 let g:nvcode_termcolors=256
 
 syntax on
-colorscheme nvcode " Or whatever colorscheme you make
+colorscheme aurorae " Or whatever colorscheme you make
 
 
 " checks if your terminal has 24-bit color support
