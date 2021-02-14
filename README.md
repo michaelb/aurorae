@@ -4,7 +4,7 @@
 
 **Included Themes**
 
-- aurora (more colorful nord with treesitter, LSP (nvim 0.5) diagnostics and some plugin's support)
+- aurorae (more colorful nord with treesitter, LSP (nvim 0.5) diagnostics and some plugin's support)
 )
 
 ### Credit
@@ -44,23 +44,16 @@ EOF
 let g:nvcode_termcolors=256
 
 syntax on
-colorscheme aurorae " Or whatever colorscheme you make
+colorscheme aurorae 
 
-
-" checks if your terminal has 24-bit color support
-if (has("termguicolors"))
-    set termguicolors
-    hi LineNr ctermbg=NONE guibg=NONE
-endif
 ```
 
-## Contributing
+## Modify to suit your needs
 
-- Create a YAML file
+- Edit the aurorae YAML file
 - Modify the highlight groups with custom colors 
 - Run the generate script and save the output to the colors directory 
-	- `generate colorscheme_name.yml >  ./colors/colorscheme_name.vim`
-- Create a PR
+	- `generate aurorae.yml >  ./colors/aurorae.vim`
 
 Below are the treesitter highlight groups; modify these to take advantage of treesitter highlighting.
 
