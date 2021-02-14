@@ -160,7 +160,7 @@ puts <<EOL
 " Maintainer: #{$information[:author]}
 
 set background=#{$information[:background]}
-hi clear
+"hi clear "<- do we really want to clear previous highlights?
 if exists('syntax_on')
   syntax reset
 endif
