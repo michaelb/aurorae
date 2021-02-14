@@ -1,4 +1,4 @@
-# NVCode Colorscheme
+# Aurorae
 
 ![React pic](./assets/react.png)
 
