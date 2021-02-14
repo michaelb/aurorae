@@ -321,3 +321,5 @@ highlights:
   DefinitionPreviewTitle: "light_blue"
   LspSagaCodeActionTitle: "light_blue"
 
+  #nvim-lightbulb
+  LightBulbFloatWin: "#FBFB8B"

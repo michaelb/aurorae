@@ -234,3 +234,4 @@ hi LspLinesDiagBorder guifg=#b5cea8 ctermfg=151 guibg=NONE ctermbg=NONE gui=NONE
 hi LspSagaBorderTitle guifg=#88c0d0 ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi DefinitionPreviewTitle guifg=#88c0d0 ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspSagaCodeActionTitle guifg=#88c0d0 ctermfg=110 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi LightBulbFloatWin guifg=#fbfb8b ctermfg=228 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
