@@ -302,16 +302,19 @@ highlights:
   LspDiagnosticsErrorFloating: "error_red"
   LspDiagnosticsErrorSign: "error_red"
 
+  LspDiagnosticsVirtualTextWarning: "orange"
   LspDiagnosticsWarning: "orange"
   LspDiagnosticsWarningFloating: "orange"
   LspDiagnosticsWarningSign: "orange"
 
 
+  LspDiagnosticsVirtualTextInfo: "yellow"
   LspDiagnosticsInformation: "yellow"
   LspDiagnosticsInformationSign: "yellow"
   LspDiagnosticsInformationFloating: "yellow"
 
   LspDiagnosticsHint: "#FCEB8A"
+  LspDiagnosticsVirtualTextHint: "#FCEB8A"
   LspDiagnosticsHintSign: "#FCEB8A"
   LspDiagnosticsHintFloating: "#FCEB8A"
 

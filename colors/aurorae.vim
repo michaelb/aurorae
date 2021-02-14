@@ -220,13 +220,16 @@ hi LspDiagnosticsVirtualTextError guifg=#f44747 ctermfg=203 guibg=NONE ctermbg=N
 hi LspDiagnosticsError guifg=#f44747 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspDiagnosticsErrorFloating guifg=#f44747 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspDiagnosticsErrorSign guifg=#f44747 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi LspDiagnosticsVirtualTextWarning guifg=#d08770 ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspDiagnosticsWarning guifg=#d08770 ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspDiagnosticsWarningFloating guifg=#d08770 ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspDiagnosticsWarningSign guifg=#d08770 ctermfg=173 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi LspDiagnosticsVirtualTextInfo guifg=#ebcb8b ctermfg=222 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspDiagnosticsInformation guifg=#ebcb8b ctermfg=222 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspDiagnosticsInformationSign guifg=#ebcb8b ctermfg=222 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspDiagnosticsInformationFloating guifg=#ebcb8b ctermfg=222 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspDiagnosticsHint guifg=#fceb8a ctermfg=228 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi LspDiagnosticsVirtualTextHint guifg=#fceb8a ctermfg=228 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspDiagnosticsHintSign guifg=#fceb8a ctermfg=228 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspDiagnosticsHintFloating guifg=#fceb8a ctermfg=228 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspReferenceText guifg=#b48e4a ctermfg=137 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
